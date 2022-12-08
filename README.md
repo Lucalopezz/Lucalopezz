@@ -2,7 +2,6 @@
 
 <a href="https://twitter.com/lucas1lop_" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
 
-![Luca GitHub stats](https://github-readme-stats.vercel.app/api?username=Lucalopezz&show_icons=true&theme=dracula&count_private=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lucalopezz&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Tecnologias que estou estudando mo momento
