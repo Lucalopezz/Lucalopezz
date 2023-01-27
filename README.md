@@ -4,7 +4,7 @@
 
 
 
-## Tecnologias que estou estudando mo momento
+## Tecnologias que estou estudando no momento
 
 <div style="display: inline_block">
   <img align="center" alt="php" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
