@@ -4,6 +4,10 @@
 
 
 
+<a href="https://github.com/Lucalopezz">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucalopezz&layout=compact"/>
+</a>
+
 ## Tecnologias que estou estudando no momento
 
 <div style="display: inline_block">
