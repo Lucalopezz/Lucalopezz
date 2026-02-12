@@ -3,9 +3,8 @@ Rising developer, committed to creating innovative and scalable technological so
 <br/>
 <br/>
 <br/>
-<a href="https://github.com/Lucalopezz">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucalopezz&layout=compact"/>
-</a>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucaLopezz)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Technologies I am currently studying
 
