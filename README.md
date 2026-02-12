@@ -4,8 +4,6 @@ Rising developer, committed to creating innovative and scalable technological so
 <br/>
 <br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucaLopezz)](https://github.com/anuraghazra/github-readme-stats)
-
 ## Technologies I am currently studying
 
 <div style="display: inline_block">
