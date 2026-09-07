@@ -2,7 +2,7 @@
 
 Software Engineering student and developer focused on backend development, infrastructure, and software architecture.
 
-I enjoy building applications while understanding what happens behind them — from APIs and databases to deployment and infrastructure. I also work with frontend development, always trying to build clean, intuitive, and well-structured interfaces.
+I enjoy building applications while understanding what happens behind them, from APIs and databases to deployment and infrastructure. I also work with frontend development, always trying to build clean, intuitive, and well-structured interfaces.
 
 I'm currently expanding my knowledge of backend technologies, system design, DevOps and Go.
 
